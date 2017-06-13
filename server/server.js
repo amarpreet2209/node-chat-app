@@ -1,12 +1,3 @@
-
-// //expressstatic is middleware
-
- //socket.leave('The Office fans');
-//
-//       //io.emit :every user     io.to('The Office fans')
-//       //socket.broadcast.emit  :everyone socket server except
-//       //socket.emit: one use
-
 const path = require('path');
 const http = require('http');
 const express = require('express');
